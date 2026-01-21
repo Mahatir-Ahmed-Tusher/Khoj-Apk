@@ -1,11 +1,11 @@
 # Khoj Mobile App
-[![Download Khoj]([https://i.postimg.cc/NF08st5B/Download-Khoj-Btton.png](https://i.postimg.cc/zvmjk6Bz/download-khoj-icon.png))](https://github.com/Mahatir-Ahmed-Tusher/Khoj-Apk/releases/download/v1.0.0/Khoj.apk)
-
+[<img src="https://i.postimg.cc/zvmjk6Bz/download-khoj-icon.png" alt="Download Khoj" width="150"/>](https://github.com/Mahatir-Ahmed-Tusher/Khoj-Apk/releases/download/v1.0.0/Khoj.apk)
 ## Overview
 
 Khoj is the first and most comprehensive AI-based fact-checking platform in Bengali, designed to combat misinformation in the digital age. In a world flooded with information, distinguishing truth from falsehood can be challenging, especially for Bengali-speaking communities. Khoj addresses this by providing reliable tools to verify facts, debunk myths, and promote digital literacy. The platform helps prevent social, political, and personal harm caused by fake news, rumors, and half-truths circulating on social media, WhatsApp, Telegram, and news apps.
 
 The Khoj Mobile App, developed in Java by the Khoj team under the leadership of Founder Mahatir Ahmed Tusher, brings these powerful features to your fingertips on Android devices. It integrates advanced AI technologies to make fact-checking fast, accessible, and user-friendly.
+
 <img src="https://i.postimg.cc/bvWxgk5N/khoj-mobile-app-image.png" alt="Khoj Mobile App Advertisement" width="35%">
 
 For more details, visit the official website: [https://khoj-bd.com](https://khoj-bd.com).
