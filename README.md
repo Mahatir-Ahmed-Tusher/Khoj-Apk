@@ -57,7 +57,6 @@ Khoj was innovated by a team of truth-seekers:
 3. Install and launch the app.
 4. Grant necessary permissions for image uploads and internet access.
 
-(Note: As this is a Java-based Android app, source code may be available in the repository for building from scratch using Android Studio.)
 
 ## Usage
 - Open the app and navigate to the desired feature via the intuitive menu.
