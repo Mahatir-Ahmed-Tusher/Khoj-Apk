@@ -1,4 +1,5 @@
 # Khoj Mobile App
+[![Download Khoj](https://i.postimg.cc/NF08st5B/Download-Khoj-Btton.png)](https://github.com/Mahatir-Ahmed-Tusher/Khoj-Apk/releases/download/v1.0.0/Khoj.apk)
 
 ![Khoj Mobile App Advertisement](https://i.postimg.cc/bvWxgk5N/khoj-mobile-app-image.png)
 
