@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Khoj" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Status bar color changed to light blue. -->
+        <item name="android:statusBarColor">@color/status_bar_blue</item>
+        <!-- Keep dark icons for visibility against the light blue background -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Khoj" parent="Base.Theme.Khoj" />
+</resources>
